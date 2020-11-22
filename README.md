@@ -1,5 +1,5 @@
 # ArcBooker
-Python script for automatically booking Arc timeslots
+Python script for automatically booking Arc timeslots at Queen's University
 
 # Setup
 - Install selenium python package
