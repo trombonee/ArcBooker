@@ -3,7 +3,7 @@ Python script for automatically booking Arc timeslots at Queen's University
 
 # Setup
 - Install selenium python package
-- Install chrome webdriver (Refer to youtube tuturial)
+- Install chrome webdriver (Refer to youtube tutorial)
 - Update selected zone and time slot
 - Comment out line with --headless reference to ensure program works properly
 - Create batch file to run script
